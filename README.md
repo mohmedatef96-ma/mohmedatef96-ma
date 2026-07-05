@@ -5,7 +5,7 @@ Accountant | Aspiring Data Analyst
 </h3>
 
 <p align="center">
-Passionate about transforming raw data into meaningful business insights through data analysis and visualization.
+Passionate about transforming financial and business data into meaningful insights through analysis, visualization, and continuous learning.
 </p>
 
 <p align="center">
@@ -32,9 +32,24 @@ Passionate about transforming raw data into meaningful business insights through
 
 # 👨‍💻 Professional Summary
 
-I am an Accountant with over **3 years of professional experience** in accounting, financial reporting, invoicing, and ERP systems.
+I'm an Accountant with over **3 years of professional experience** in accounting, financial reporting, invoicing, ERP systems, and data management across different industries.
 
-Currently, I am expanding my expertise in **Data Analytics** by building real-world projects using **Python, SQL, Excel, and Power BI**. My goal is to combine financial knowledge with analytical skills to deliver data-driven business solutions.
+Currently expanding my expertise in **Data Analytics** by building real-world projects using **Python, SQL, Excel, Power BI, Pandas, NumPy, and Jupyter Notebook**.
+
+My accounting background helps me understand business processes and financial data, while my growing analytical skills enable me to transform raw data into actionable insights that support better business decisions.
+
+---
+
+# 💼 Experience Highlights
+
+- ✔️ 3+ Years of Professional Accounting Experience
+- ✔️ Financial Reporting
+- ✔️ Accounts Receivable & Invoicing
+- ✔️ Data Entry & Data Management
+- ✔️ ERP Systems (Microsoft Dynamics AX & Odoo ERP)
+- ✔️ Advanced Microsoft Excel
+- ✔️ Strong Analytical & Problem-Solving Skills
+- ✔️ Building a Professional Data Analytics Portfolio
 
 ---
 
@@ -51,11 +66,11 @@ Currently, I am expanding my expertise in **Data Analytics** by building real-wo
 
 # 🛠️ Technical Skills
 
-### 📊 Data Analytics
+## 📊 Data Analytics
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -65,7 +80,7 @@ Currently, I am expanding my expertise in **Data Analytics** by building real-wo
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 
@@ -73,7 +88,7 @@ Currently, I am expanding my expertise in **Data Analytics** by building real-wo
 
 ---
 
-### 💼 ERP & Accounting
+## 💼 ERP & Accounting
 
 - Microsoft Dynamics AX
 - Odoo ERP
@@ -81,7 +96,7 @@ Currently, I am expanding my expertise in **Data Analytics** by building real-wo
 
 ---
 
-### 💻 Development Tools
+## 💻 Tools
 
 - Git
 - GitHub
@@ -91,33 +106,67 @@ Currently, I am expanding my expertise in **Data Analytics** by building real-wo
 
 # 📂 Featured Projects
 
-🍽 Restaurant Sales Analysis
+### 🍽 Restaurant Sales Analysis
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
+- Business Insights
 
-📱 Electronics Sales Analysis
+---
 
+### 📱 Electronics Sales Analysis
+
+- Data Cleaning
 - Data Transformation
 - Feature Engineering
 - Business Insights
 
-📊 Power BI Sales Dashboard
+---
 
-📈 Excel Interactive Dashboard
+### 📊 Power BI Dashboard
 
-🐍 Python Data Cleaning Projects
+- Interactive Sales Dashboard
+- KPI Reporting
+- Business Performance Analysis
+
+---
+
+### 📈 Excel Dashboard
+
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Business Reporting
+
+---
+
+### 🐍 Python Projects
+
+- Data Cleaning
+- Data Analysis
+- Automation Scripts
 
 ---
 
 # 🎯 Career Objective
 
-To leverage my accounting background and analytical skills to become a Data Analyst who transforms business data into actionable insights that support strategic decision-making.
+To combine my accounting experience with modern data analytics skills in order to become a Data Analyst who helps organizations make smarter, data-driven decisions.
 
 ---
 
-# 📈 GitHub Stats
+# 📜 Certifications
+
+Currently working on earning certifications in:
+
+- Google Data Analytics Professional Certificate
+- Microsoft Power BI
+- SQL
+- Python for Data Analysis
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -151,12 +200,14 @@ To leverage my accounting background and analytical skills to become a Data Anal
 
 # 🌟 Quote
 
-> **"Turning data into actionable insights through continuous learning and analytical thinking."**
+> **"Turning data into actionable insights through continuous learning, analytical thinking, and real-world problem solving."**
 
 ---
 
 <p align="center">
 
-Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
+
+Always learning, always improving, and always building.
 
 </p>
