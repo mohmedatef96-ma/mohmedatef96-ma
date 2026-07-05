@@ -1,7 +1,7 @@
 
 
 
-<div align="center" width="50">
+
 👋 Hi, I'm Mohamed Atef
 
 Accountant | Aspiring Data Analyst
