@@ -1,99 +1,124 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left">👋 Hello there! I'm Mohamed Atef</h1>
+
+<h3 align="left">
+Accountant | Aspiring Data Analyst
+</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" /></a>
-  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
-  <a href="https://stackoverflow.com/users/4868262"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow"></a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
-  <a href="https://github.com/MacroPower?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github"></a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
+  <img src="https://komarev.com/ghpvc/?username=mohmedatef96-ma&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/mohmedatef96-ma?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohmedatef96-ma?label=Followers&style=social" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohamed-atef-674a6a200">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
 </p>
 
-<a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
+---
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=mohmedatef96-ma&show_icons=true&theme=tokyonight"/>
 
-<br>
+## 👨‍💻 About Me
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+💼 Accountant with over **3 years of professional experience**
 
-> Tools, languages, and other things that I like to work with.
+📊 Currently transitioning into **Data Analytics**
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
-      <br>KCL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
-      <br>Dagger
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
-      <br>Nix
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
-      <br>tmux
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
-      <br>nvim
-    </td>
-  </tr>
-</table>
+🐍 Learning **Python, Pandas, NumPy, SQL, Power BI**
 
-<h2 align="left">Coding Activity</h2>
+📈 Passionate about transforming raw data into business insights
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+🎯 Goal: Become a **Data Analyst / Financial Analyst**
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+📍 Based in UAE
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+---
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+## 🚀 Currently Learning
 
-<!-- links -->
+- Python
+- SQL
+- Power BI
+- Statistics
+- Data Visualization
+- Business Intelligence
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+---
+
+# 🛠 Tech Stack
+
+### 📊 Data Analytics
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+📊 Restaurant Sales Analysis
+
+📈 Sales Dashboard (Power BI)
+
+🧹 Data Cleaning with Python
+
+📉 Exploratory Data Analysis (EDA)
+
+📋 Excel Dashboard
+
+---
+
+# 📚 Currently Working On
+
+✔ Improving Python Skills
+
+✔ SQL Practice
+
+✔ Building Data Analytics Portfolio
+
+✔ Uploading Real Business Projects to GitHub
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohmedatef96-ma&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedatef96-ma&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email
+
+**mohmedatef561@gmail.com**
+
+💼 LinkedIn
+
+www.linkedin.com/in/mohamed-atef-674a6a200
+
+---
+
+⭐ Thanks for visiting my profile!
